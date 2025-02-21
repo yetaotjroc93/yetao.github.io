@@ -7,5 +7,5 @@ author_profile: true
 ---
 
 I am passionate about any outdoor activity like camping (both car-camping and backpack), cycling and hiking. I have three lovely cats. Unfortunately, they don't like going outside with me :(
-![camping](/images/editing-talk.png)
-![cats](/images/eapcr.png)
+![camping](/images/hiking.JPG)
+![cats](/images/cats.JPG)

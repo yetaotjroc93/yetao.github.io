@@ -1,11 +1,6 @@
 ---
 permalink: /publications/
 title: "Publications"
-excerpt: "Yu Wu"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html 
 ---
 
 <script src="_pages/paper.js"></script>
