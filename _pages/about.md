@@ -71,7 +71,11 @@ Pre-print
     "We propose a method to learn the representation of structured scientific data with no explicit connection among features. The method employs bilinear attention and permuted CNN to understand the implicit structure.",
     "https://arxiv.org/abs/2411.08164"
   ));
+</script>
 
+---
+
+<script>
     document.write(generatePaperHTML(
     "datafilter.png",
     'When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter. (arXiv 2024)' ,
