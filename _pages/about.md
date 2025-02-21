@@ -26,7 +26,11 @@ Accepted
     "We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.",
     "https://arxiv.org/abs/2501.13810"
   ));
+  </script>
 
+---
+
+<script>
   document.write(generatePaperHTML(
     "l2h.png",
     "Learning To Help: Training Models to Assist Legacy Devices. (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning)",
@@ -34,7 +38,11 @@ Accepted
     "We propose a new machine learning framework Learning to Help which trains external model to assist existing legacy model.",
     "https://arxiv.org/abs/2409.16253"
   ));
+  </script>
 
+---
+
+<script>
   document.write(generatePaperHTML(
     "phaseanti.png",
     'PhaseAnti: An anti-interference WiFi-based activity recognition system using interference-independent phase component. (IEEE Transactions on Mobile Computing 22, no. 5 (2021): 2938-2954)',
@@ -42,7 +50,11 @@ Accepted
     "Journal version of PhaseAnti.",
     "https://ieeexplore.ieee.org/abstract/document/9613773"
   ));
+  </script>
 
+---
+
+<script>
   document.write(generatePaperHTML(
     "antiinfer20.png",
     'Towards anti-interference WiFi-based activity recognition system using interference-independent phase component. (INFOCOM 2020)',
@@ -50,7 +62,11 @@ Accepted
     "We propose PhaseAnti, a novel HAR system to exploit the CCI- independent phase component, NLPEV (Nonlinear Phase Error Variation), of Channel State Information (CSI) to cope with the impact of CCI.",
     "https://ieeexplore-ieee-org.proxy.libraries.rutgers.edu/abstract/document/9155536"
   ));
+  </script>
 
+---
+
+<script>
   document.write(generatePaperHTML(
     "UIST.png",
     'Tessutivo: Contextual interactions on interactive fabrics with inductive sensing. (UIST 2019)',

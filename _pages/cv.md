@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV-Yu-Wu-2024-Rutgers.pdf
 author_profile: true
 redirect_from:
   - /resume
