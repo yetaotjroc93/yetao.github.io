@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yu Wu 吴俣"
   avatar           : "yw.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "ECE@Rutgers, Piscataway, NJ, USA"
-  email            : "yu.wu@rutgers.edu"
+  bio              : "yu.wu at rutgers dot edu"
+  location         : "ECE@Rutgers, NJ, USA"
+  email            : "yu.wu@rutgers.edu" 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_TI9CYgAAAAJ&hl=en"
