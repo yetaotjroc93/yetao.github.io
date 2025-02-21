@@ -19,31 +19,31 @@ Accepted
 ------
 - **[Wu, Yu, Yansong Li, Zeyu Dong, Nitya Sathyavageeswaran, and Anand D. Sarwate. "Learning to Help in Multi-Class Settings."(ICLR 2025).](https://arxiv.org/abs/2501.13810)**
   
-  ![Paper 1 Photo](images/image-alignment-150x150.jpg)
+  ![Paper 1 Photo](images/l2hmulti.jpg)
   
   We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.
 
 - **[Wu, Yu, and Anand Sarwate. "Learning To Help: Training Models to Assist Legacy Devices." arXiv preprint arXiv:2409.16253 (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning).](https://arxiv.org/abs/2409.16253)**
   
-  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  ![Paper 2 Photo](images/l2h.jpg)
   
    We propose a new machine learning framework Learning to Help which trains external model to assist existing legacy model.
 
 - **[Huang, Jinyang, Bin Liu, Chenglin Miao, Yan Lu, Qijia Zheng, Yu Wu, Jiancun Liu, Lu Su, and Chang Wen Chen. "PhaseAnti: An anti-interference WiFi-based activity recognition system using interference-independent phase component." IEEE Transactions on Mobile Computing 22, no. 5 (2021): 2938-2954.](https://ieeexplore.ieee.org/abstract/document/9613773)**
   
-  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  ![Paper 2 Photo](images/phaseanti.jpg)
   
   Journal version of PhaseAnti.
 
-- **[Huang, Jinyang, Bin Liu, Pengfei Liu, Chao Chen, Ning Xiao, Yu Wu, Chi Zhang, and Nenghai Yu. "Towards anti-interference WiFi-based activity recognition system using interference-independent phase component." In IEEE INFOCOM 2020-IEEE Conference on Computer Communications, pp. 576-585. IEEE, 2020.](https://example.com/paper2)**
+- **[Huang, Jinyang, Bin Liu, Pengfei Liu, Chao Chen, Ning Xiao, Yu Wu, Chi Zhang, and Nenghai Yu. "Towards anti-interference WiFi-based activity recognition system using interference-independent phase component." In IEEE INFOCOM 2020-IEEE Conference on Computer Communications, pp. 576-585. IEEE, 2020.](https://ieeexplore-ieee-org.proxy.libraries.rutgers.edu/abstract/document/9155536)**
   
-  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  ![Paper 2 Photo](images/antiinfer20.jpg)
   
   We propose PhaseAnti, a novel HAR system to exploit the CCI- independent phase component, NLPEV (Nonlinear Phase Error Variation), of Channel State Information (CSI) to cope with the impact of CCI.
 
 - **[Gong, Jun, Yu Wu, Lei Yan, Teddy Seyed, and Xing-Dong Yang. "Tessutivo: Contextual interactions on interactive fabrics with inductive sensing." In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology, pp. 29-41. 2019.](https://dl-acm-org.proxy.libraries.rutgers.edu/doi/abs/10.1145/3332165.3347897)**
   
-  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  ![Paper 2 Photo](images/UIST.jpg)
   
   We present Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.
 
@@ -51,16 +51,16 @@ Pre-print
 ------
 - **[Yu, Zhuohang, Ling An, Yansong Li, Yu Wu, Zeyu Dong, Zhangdi Liu, Le Gao, Zhenyu Zhang, and Chichun Zhou. "EAPCR: A Universal Feature Extractor for Scientific Data without Explicit Feature Relation Patterns." arXiv preprint arXiv:2411.08164 (2024).](https://arxiv.org/abs/2411.08164)**
   
-  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  ![Paper 2 Photo](images/eapcr.jpg)
   
   We propose a method to learn the representation of structured scientific data with no explicit connection among features. The method employs bilinear attention and permuted CNN to understand the implicit structure. 
 
 - **[Li, Yansong, Zeyu Dong, Ertai Luo, Yu Wu, Shuo Wu, and Shuo Han. "When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter." arXiv preprint arXiv:2410.12160 (2024).](https://arxiv.org/abs/2410.12160)**
   
-  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  ![Paper 2 Photo](images/datafilter.jpg)
   
   we introduce an out-of-distribution (OOD) data filter that removes simulated data from the estimated model that significantly diverges from data collected in the real environment. 
-  
+
 Experience
 ======
 b
