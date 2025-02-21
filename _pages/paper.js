@@ -4,7 +4,7 @@ function generatePaperHTML(photo, title, authors, description, link) {
     return `
       <div style="display: flex; align-items: flex-start;">
         <div style="flex: 1;">
-          <img src="${fullPhotoURL}" alt="Paper Photo" style="width: 300px !important;">
+          <img src="${fullPhotoURL}" alt="Paper Photo" >
         </div>
         <div style="flex: 3;">
           <p><strong><a href="${link}">${title}</a></strong></p>
