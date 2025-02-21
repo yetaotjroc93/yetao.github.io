@@ -20,7 +20,7 @@ Accepted
 ------
 <script>
   document.write(generatePaperHTML(
-    "images/l2hmulti.jpg",
+    "/assets/images/l2hmulti.jpg",
     '"Learning to Help in Multi-Class Settings."(ICLR 2025)',
     "Wu, Yu, Yansong Li, Zeyu Dong, Nitya Sathyavageeswaran, and Anand D. Sarwate",
     "We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.",
