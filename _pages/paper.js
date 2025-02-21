@@ -8,7 +8,7 @@ function generatePaperHTML(photo, title, authors, description, link) {
         </div>
         <div style="flex: 2;">
           <p><strong><a href="${link}">${title}</a></strong></p>
-          <p><strong>${emphasizeAuthor(authors)}</strong></p>
+          <p>${emphasizeAuthor(authors)}</p>
           <p>${description}</p>
         </div>
       </div>

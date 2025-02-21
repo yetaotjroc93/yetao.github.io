@@ -36,13 +36,28 @@ Accepted
   ));
 
   document.write(generatePaperHTML(
-    "phaseanti.jpg",
+    "phaseanti.png",
     'PhaseAnti: An anti-interference WiFi-based activity recognition system using interference-independent phase component. (IEEE Transactions on Mobile Computing 22, no. 5 (2021): 2938-2954)',
     "Huang, Jinyang, Bin Liu, Chenglin Miao, Yan Lu, Qijia Zheng, Yu Wu, Jiancun Liu, Lu Su, and Chang Wen Chen",
     "Journal version of PhaseAnti.",
     "https://ieeexplore.ieee.org/abstract/document/9613773"
   ));
 
+  document.write(generatePaperHTML(
+    "antiinfer20.png",
+    'Towards anti-interference WiFi-based activity recognition system using interference-independent phase component. (INFOCOM 2020)',
+    "Huang, Jinyang, Bin Liu, Pengfei Liu, Chao Chen, Ning Xiao, Yu Wu, Chi Zhang, and Nenghai Yu",
+    "We propose PhaseAnti, a novel HAR system to exploit the CCI- independent phase component, NLPEV (Nonlinear Phase Error Variation), of Channel State Information (CSI) to cope with the impact of CCI.",
+    "https://ieeexplore-ieee-org.proxy.libraries.rutgers.edu/abstract/document/9155536"
+  ));
+
+  document.write(generatePaperHTML(
+    "UIST.png",
+    'Tessutivo: Contextual interactions on interactive fabrics with inductive sensing. (UIST 2019)',
+    "Gong, Jun, Yu Wu, Lei Yan, Teddy Seyed, and Xing-Dong Yang",
+    "We present Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.",
+    "https://dl-acm-org.proxy.libraries.rutgers.edu/doi/abs/10.1145/3332165.3347897"
+  ));
 
 </script>
 
@@ -50,25 +65,21 @@ Pre-print
 ------
 <script>
   document.write(generatePaperHTML(
-    "images/eapcr.jpg",
-    'Yu, Zhuohang, Ling An, Yansong Li, Yu Wu, Zeyu Dong, Zhangdi Liu, Le Gao, Zhenyu Zhang, and Chichun Zhou. "EAPCR: A Universal Feature Extractor for Scientific Data without Explicit Feature Relation Patterns." arXiv preprint arXiv:2411.08164 (2024)',
+    "eapcr.png",
+    'EAPCR: A Universal Feature Extractor for Scientific Data without Explicit Feature Relation Patterns. (arXiv 2024)' ,
     "Yu, Zhuohang, Ling An, Yansong Li, Yu Wu, Zeyu Dong, Zhangdi Liu, Le Gao, Zhenyu Zhang, and Chichun Zhou",
     "We propose a method to learn the representation of structured scientific data with no explicit connection among features. The method employs bilinear attention and permuted CNN to understand the implicit structure.",
     "https://arxiv.org/abs/2411.08164"
   ));
+
+    document.write(generatePaperHTML(
+    "datafilter.png",
+    'When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter. (arXiv 2024)' ,
+    "Li, Yansong, Zeyu Dong, Ertai Luo, Yu Wu, Shuo Wu, and Shuo Han.",
+    "we introduce an out-of-distribution (OOD) data filter that removes simulated data from the estimated model that significantly diverges from data collected in the real environment. ",
+    "https://arxiv.org/abs/2410.12160"
+  ));
 </script>
-
-- **[Yu, Zhuohang, Ling An, Yansong Li, Yu Wu, Zeyu Dong, Zhangdi Liu, Le Gao, Zhenyu Zhang, and Chichun Zhou. "EAPCR: A Universal Feature Extractor for Scientific Data without Explicit Feature Relation Patterns." arXiv preprint arXiv:2411.08164 (2024).](https://arxiv.org/abs/2411.08164)**
-  
-  ![Paper 2 Photo](images/eapcr.jpg)
-  
-  We propose a method to learn the representation of structured scientific data with no explicit connection among features. The method employs bilinear attention and permuted CNN to understand the implicit structure. 
-
-- **[Li, Yansong, Zeyu Dong, Ertai Luo, Yu Wu, Shuo Wu, and Shuo Han. "When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter." arXiv preprint arXiv:2410.12160 (2024).](https://arxiv.org/abs/2410.12160)**
-  
-  ![Paper 2 Photo](images/datafilter.jpg)
-  
-  we introduce an out-of-distribution (OOD) data filter that removes simulated data from the estimated model that significantly diverges from data collected in the real environment. 
 
 Experience
 ======
