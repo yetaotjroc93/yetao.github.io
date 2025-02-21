@@ -26,6 +26,24 @@ Accepted
     "We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.",
     "https://arxiv.org/abs/2501.13810"
   ));
+
+  document.write(generatePaperHTML(
+    "l2h.png",
+    "Learning To Help: Training Models to Assist Legacy Devices. (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning)",
+    "Wu, Yu, and Anand Sarwate",
+    "We propose a new machine learning framework Learning to Help which trains external model to assist existing legacy model.",
+    "https://arxiv.org/abs/2409.16253"
+  ));
+
+  document.write(generatePaperHTML(
+    "phaseanti.jpg",
+    'PhaseAnti: An anti-interference WiFi-based activity recognition system using interference-independent phase component. (IEEE Transactions on Mobile Computing 22, no. 5 (2021): 2938-2954)',
+    "Huang, Jinyang, Bin Liu, Chenglin Miao, Yan Lu, Qijia Zheng, Yu Wu, Jiancun Liu, Lu Su, and Chang Wen Chen",
+    "Journal version of PhaseAnti.",
+    "https://ieeexplore.ieee.org/abstract/document/9613773"
+  ));
+
+
 </script>
 
 Pre-print
