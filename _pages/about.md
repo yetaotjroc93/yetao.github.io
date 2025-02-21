@@ -108,7 +108,3 @@ b
 Teaching
 ======
 c
-
-Beyond Research
-------
-I am passionate about any outdoor activity like camping (both car-camping and backpack), cycling and hiking. I have three lovely cats. Unfortunately, they don't like going outside with me :(
