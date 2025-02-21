@@ -14,14 +14,17 @@ My research interests lie in efficient AI (Learning with reject option and Dyna-
 
 Publications
 ======
-### 1. [Paper Title 1](https://example.com/paper1)
-![Thumbnail for Paper 1](yw.jpg)
-*(Optional short description or abstract here.)*
+- **[Paper Title 1](https://example.com/paper1)**
+  
+  ![Paper 1 Photo](_images/yw.jpg)
+  
+  A brief description of Paper 1. 
 
-### 2. [Paper Title 2](https://example.com/paper2)
-![Thumbnail for Paper 2](yw.jpg)
-*(Optional short description or abstract here.)*
-
+- **[Paper Title 2](https://example.com/paper2)**
+  
+  ![Paper 2 Photo](https://example.com/paper2-thumbnail.jpg)
+  
+  A brief description of Paper 2.
 
 Experience
 ======
