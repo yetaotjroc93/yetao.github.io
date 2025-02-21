@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-<script src="/assets/js/paper.js"></script>
+<script src="_pages/paper.js"></script>
 
 I am a PhD student in the Department of Electrical and Computer Engineering at Rutgers, the State University of New Jersey, working with [Prof. Anand Sarwate](https://adsarwate.github.io). I earned my Master's degree in Electronic Engineering and Information Science in 2020, under the supervision of [Prof. Bin Liu](https://scholar.google.com/citations?user=kReWULQAAAAJ&hl=zh-CN) and my Bachelor's degree in Information Security in 2017, both from the University of Science and Technology of China(USTC).
 
@@ -19,13 +19,13 @@ Publications
 Accepted
 ------
 <script>
-  document.getElementById('accepted-papers').innerHTML += generatePaperHTML(
+  document.write(generatePaperHTML(
     "l2hmulti.png",
     "Learning to Help in Multi-Class Settings.(ICLR 2025)",
     "Wu, Yu, Yansong Li, Zeyu Dong, Nitya Sathyavageeswaran, and Anand D. Sarwate",
     "We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.",
     "https://arxiv.org/abs/2501.13810"
-  );
+  ));
 </script>
 
 Pre-print
