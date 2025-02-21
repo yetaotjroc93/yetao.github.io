@@ -15,7 +15,7 @@ My research interests lie in efficient AI (Learning with reject option and Dyna-
 Publications
 ======
 a
-{% include publications.md %}
+
 
 Experience
 ======
