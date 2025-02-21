@@ -20,16 +20,16 @@ Accepted
 ------
 <script>
   document.write(generatePaperHTML(
-    "eapcr.png",
-    '"Learning to Help in Multi-Class Settings."(ICLR 2025)',
+    "l2hmulti.png",
+    "Learning to Help in Multi-Class Settings.(ICLR 2025)",
     "Wu, Yu, Yansong Li, Zeyu Dong, Nitya Sathyavageeswaran, and Anand D. Sarwate",
     "We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.",
     "https://arxiv.org/abs/2501.13810"
   ));
 
   document.write(generatePaperHTML(
-    "images/l2h.jpg",
-    'Wu, Yu, and Anand Sarwate. "Learning To Help: Training Models to Assist Legacy Devices." arXiv preprint arXiv:2409.16253 (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning)',
+    "images/l2h.png",
+    "Learning To Help: Training Models to Assist Legacy Devices. (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning)",
     "Wu, Yu, and Anand Sarwate",
     "We propose a new machine learning framework Learning to Help which trains external model to assist existing legacy model.",
     "https://arxiv.org/abs/2409.16253"
