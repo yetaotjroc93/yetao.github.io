@@ -17,11 +17,17 @@ Publications
 
 Accepted
 ------
-- **[Wu, Yu, Yansong Li, Zeyu Dong, Nitya Sathyavageeswaran, and Anand D. Sarwate. "Learning to Help in Multi-Class Settings."(ICLR 2025).](https://arxiv.org/abs/2501.13810)**
-  
-  ![Paper 1 Photo](images/l2hmulti.jpg)
-  
-  We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="images/l2hmulti.jpg" alt="Paper 1 Photo" style="width: 100px;">
+  </div>
+  <div style="flex: 3;">
+    <p><strong><a href="https://arxiv.org/abs/2501.13810">"Learning to Help in Multi-Class Settings."(ICLR 2025).</a></strong></p>
+    <p><strong>Wu, Yu</strong>, Yansong Li, Zeyu Dong, Nitya Sathyavageeswaran, and Anand D. Sarwate.</p>
+    <p>We extend the Learning to Help, which is the reverse problem of Learning to Defer, to multi-class classification for both synchronous and asynchronous settings.</p>
+  </div>
+</div>
+
 
 - **[Wu, Yu, and Anand Sarwate. "Learning To Help: Training Models to Assist Legacy Devices." arXiv preprint arXiv:2409.16253 (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning).](https://arxiv.org/abs/2409.16253)**
   
