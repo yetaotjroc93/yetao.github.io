@@ -14,9 +14,11 @@ My research interests lie in efficient AI (Learning with reject option and Dyna-
 
 Publications
 ======
+Accepted
+------
 - **[Paper Title 1](https://example.com/paper1)**
   
-  ![Paper 1 Photo](_images/yw.jpg)
+  ![Paper 1 Photo](images/image-alignment-150x150.jpg)
   
   A brief description of Paper 1. 
 
@@ -26,6 +28,8 @@ Publications
   
   A brief description of Paper 2.
 
+Pre-print
+------
 Experience
 ======
 b
