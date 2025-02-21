@@ -15,7 +15,7 @@ My research interests lie in efficient AI (Learning with reject option and Dyna-
 
 Publications
 ======
-
+<div id="publications"></div>
 Accepted
 ------
 <script>
