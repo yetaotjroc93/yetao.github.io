@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
+excerpt: "Yu Wu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -94,3 +94,4 @@ Pre-print
     "https://arxiv.org/abs/2410.12160"
   ));
 </script>
+
