@@ -103,9 +103,11 @@ Pre-print
   ));
 </script>
 
+---
 
 Internship Experience
 ======
+
 <div id="experience"></div>
 
 ### On Accuracy of Delay and Extrapolate Method in Online Misalignment Estimation
@@ -124,6 +126,7 @@ Internship Experience
 - Proposed Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.
 - Built a prototype containing coils made of conductive thread with maximized sensitivity conducted by a new inductance approximation formula.
 
+---
 
 Teaching Experience
 ======
@@ -131,23 +134,21 @@ Teaching Experience
 <div id="teaching"></div>
 
 **Role:** Teaching Assistant 
+**Institution:** Rutgers  
 
 ### Linear Signal and System
-**Institution:** Rutgers  
 **Semester:** Fall 2023, Fall 2024  
 
 ### Discrete Mathematics
-**Institution:** Rutgers  
 **Semester:** Spring 2022  
 
 ### Principles of Electrical Engineering
-**Institution:** Rutgers  
 **Semester:** Fall 2021, Fall 2020  
 
 ### Probability and Random Processes
-**Institution:** Rutgers  
 **Semester:** Spring 2021  
 
-### Mathematical Logic and Graph Theory
+---
 **Institution:** USTC  
+### Mathematical Logic and Graph Theory
 **Semester:** Fall 2018  
