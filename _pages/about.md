@@ -112,7 +112,7 @@ Internship Experience
 
 ### On Accuracy of Delay and Extrapolate Method in Online Misalignment Estimation
 **Position:** Research Intern  
-**Institution:** Bell Lab, USA  
+**Location:** Bell Lab, USA  
 **Duration:** June 2022 - August 2022  
 **Advisor:** Carl Nuzman, Shirin Jalali  
 - We rigorously analyze the accuracy and effectiveness of the classic method “delay and extrapolate” for estimating the misalignment error when applied to the least mean squares (LMS) algorithm.
@@ -120,7 +120,7 @@ Internship Experience
 
 ### Tessutivo: Contextual Interactions on Interactive Fabrics with Inductive Sensing
 **Position:** Research Intern  
-**Institution:** Dartmouth College, USA  
+**Location:** Dartmouth College, USA  
 **Duration:** December 2018 - April 2019  
 **Advisor:** Xing-Dong Yang  
 - Proposed Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.
@@ -134,21 +134,18 @@ Teaching Experience
 <div id="teaching"></div>
 
 **Role:** Teaching Assistant 
+
 **Institution:** Rutgers  
 
-### Linear Signal and System
-**Semester:** Fall 2023, Fall 2024  
+### Linear Signal and System (Fall 2023, Fall 2024) 
 
-### Discrete Mathematics
-**Semester:** Spring 2022  
+### Discrete Mathematics (Spring 2022)  
 
-### Principles of Electrical Engineering
-**Semester:** Fall 2021, Fall 2020  
+### Principles of Electrical Engineering (Fall 2021, Fall 2020)
 
-### Probability and Random Processes
-**Semester:** Spring 2021  
+### Probability and Random Processes (Spring 2021)  
 
 ---
 **Institution:** USTC  
-### Mathematical Logic and Graph Theory
-**Semester:** Fall 2018  
+
+### Mathematical Logic and Graph Theory (Fall 2018)  
