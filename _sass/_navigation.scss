@@ -174,10 +174,10 @@
 
 .greedy-nav {
   //position: relative;
-  position: sticky; // Change from "relative" to "sticky"
+  position: absolute; // Change from "relative" to "sticky"
   top: 0; // Add this to make it stick to the top
   z-index: 1000; 
-  
+
   min-width: 250px;
   background: $background-color;
 

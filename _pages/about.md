@@ -13,10 +13,10 @@ I am a PhD student in the Department of Electrical and Computer Engineering at R
 
 My research interests lie in efficient AI (Learning with reject option and Dyna-Style Model-Based RL), Human activity recognition (inductive sensing and WiFi-based recognition) and LLM reasoning (In-context Learning and reversal curse).
 
+<div id="publications"></div>
+
 Publications
 ======
-
-<div id="publications"></div>
 
 Accepted
 ------
@@ -105,10 +105,10 @@ Pre-print
 
 ---
 
+<div id="experience"></div>
+
 Internship Experience
 ======
-
-<div id="experience"></div>
 
 ### On Accuracy of Delay and Extrapolate Method in Online Misalignment Estimation
 **Position:** Research Intern  
@@ -128,10 +128,10 @@ Internship Experience
 
 ---
 
+<div id="teaching"></div>
+
 Teaching Experience
 ======
-
-<div id="teaching"></div>
 
 **Role:** Teaching Assistant 
 
