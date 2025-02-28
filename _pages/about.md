@@ -13,6 +13,8 @@ I am a PhD student in the Department of Electrical and Computer Engineering at R
 
 My research interests lie in efficient AI (Learning with reject option and Dyna-Style Model-Based RL), Human activity recognition (inductive sensing and WiFi-based recognition) and LLM reasoning (In-context Learning and reversal curse).
 
+------
+
 <div id="publications"></div>
 
 Publications
