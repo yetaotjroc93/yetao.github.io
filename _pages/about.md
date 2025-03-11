@@ -118,7 +118,7 @@ Internship Experience
 **Duration:** June 2022 - August 2022  
 **Advisor:** Carl Nuzman, Shirin Jalali  
 - We rigorously analyze the accuracy and effectiveness of the classic method “delay and extrapolate” for estimating the misalignment error when applied to the least mean squares (LMS) algorithm.
-- Our analysis for mean squared error of filter coefficients made corrections to similar, well-known results in the previous LMS literature.
+- Our analysis for mean squared error of filter coefficients made corrections to similar, well-known results in the previous LMS literature. [report](/files/bell_lab.pdf)
 
 ### Tessutivo: Contextual Interactions on Interactive Fabrics with Inductive Sensing
 **Position:** Research Intern  
