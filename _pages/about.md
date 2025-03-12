@@ -64,7 +64,7 @@ Accepted
     'Towards anti-interference WiFi-based activity recognition system using interference-independent phase component. (INFOCOM 2020)',
     "Huang, Jinyang, Bin Liu, Pengfei Liu, Chao Chen, Ning Xiao, Yu Wu, Chi Zhang, and Nenghai Yu",
     "We propose PhaseAnti, a novel HAR system to exploit the CCI- independent phase component, NLPEV (Nonlinear Phase Error Variation), of Channel State Information (CSI) to cope with the impact of CCI.",
-    "https://ieeexplore-ieee-org.proxy.libraries.rutgers.edu/abstract/document/9155536"
+    "https://ieeexplore.ieee.org/abstract/document/9155536/?casa_token=n0pgHUKmh8cAAAAA:J_Bw9zpG0893SLSFytpStUVNmtzSD2mEwADF7DAHmlYEN4al_KRwtSjjPPH_uy_oeRmIRdyl7A"
   ));
   </script>
 
@@ -76,13 +76,24 @@ Accepted
     'Tessutivo: Contextual interactions on interactive fabrics with inductive sensing. (UIST 2019)',
     "Gong, Jun, Yu Wu, Lei Yan, Teddy Seyed, and Xing-Dong Yang",
     "We present Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.",
-    "https://dl-acm-org.proxy.libraries.rutgers.edu/doi/abs/10.1145/3332165.3347897"
+    "https://dl.acm.org/doi/abs/10.1145/3332165.3347897"
   ));
 
 </script>
 
 Pre-print
 ------
+
+<script>
+  document.write(generatePaperHTML(
+    "literateLLM.png",
+    'Renaissance of Literate Programming in the Era of LLMs: Enhancing LLM-Based Code Generation in Large-Scale Projects. (arXiv 2024)' ,
+    "Zhang, Wuyang, Yansong Li, Zeyu Dong, Yu Wu, Yingyao Zhou, Duolei Wang, Songsirou Xing, Chichun Zhou, and Da Shen.",
+    "We investigate how LLMs perform under ILP-style instructions for both document-oriented tasks and entire projects. Recognizing that many researchers rely on well-structured templates to guide LLMs, we propose a concise prompt engineering method to write LP documents so LLMs can better be involved in code generation. We also examine the capacity of various LLMs to generate Scheme and Python code on the RepoBench benchmark, illustrating the advantages of our approach. Our findings indicate that ILP with LLMs can enhance LLM-based code generation in large-scale project development.",
+    "https://arxiv.org/abs/2502.17441"
+  ));
+</script>
+---
 <script>
   document.write(generatePaperHTML(
     "eapcr.png",
