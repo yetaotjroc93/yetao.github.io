@@ -3,9 +3,9 @@ function generatePaperHTML(photo, title, authors, description, link) {
   const fullPhotoURL = baseURL + photo;
     return `
       <div style="display: flex; align-items: flex-start;">
-        <div style="flex: 1;">
+        <!-- <div style="flex: 1;">
           <img src="${fullPhotoURL}" alt="Paper Photo" >
-        </div>
+        </div> -->
         <div style="flex: 2;">
           <p><strong><a href="${link}">${title}</a></strong></p>
           <p>${emphasizeAuthor(authors)}</p>
