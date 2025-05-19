@@ -116,12 +116,12 @@ Internship
 LinkedIn Corporation
 ------
 
-<p><strong>Applied Research Intern, May 2024 – August 2024<br>
+<p><strong>Applied Research Intern, May 2024 – August 2024</strong><br>
 Worked on ads recommendation, optimizing ranking systems through reinforcement learning techniques.</p>
 
 ---
 
-<p><strong>Applied Research Intern, May 2024 – August 2024<br>
+<p><strong>Applied Research Intern, May 2024 – August 2024</strong><br>
 Worked on ads recommendation, optimizing ranking systems through reinforcement learning techniques.</p>
 
 ---
