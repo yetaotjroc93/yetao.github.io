@@ -27,7 +27,7 @@ Accepted
     "icassp2025.png",
     "Differentially Private Distribution Estimation Using Functional Approximation. (ICASSP 2025)",
     "Ye Tao and Anand D. Sarwate",
-    "The cumulative distribution function (CDF) is fundamental due to its ability to reveal information about random variables, making it essential in studies that require privacypreserving methods to protect sensitive data. This paper introduces a novel privacy-preserving CDF method inspired by the functional analysis and functional mechanism. Our approach projects the empirical CDF into a predefined space, approximating it using specific functions, and protects the coefficients to achieve a differentially private empirical CDF. Compared to existing methods like histogram queries and adaptive quantiles, our method is preferable in decentralized settings and scenarios where CDFs must be updated with newly collected data.",
+    "The cumulative distribution function (CDF) is fundamental due to its ability to reveal information about random variables, making it essential in studies that require privacy-preserving methods to protect sensitive data. This paper introduces a novel privacy-preserving CDF method inspired by the functional analysis and functional mechanism. Our approach projects the empirical CDF into a predefined space, approximating it using specific functions, and protects the coefficients to achieve a differentially private empirical CDF. Compared to existing methods like histogram queries and adaptive quantiles, our method is preferable in decentralized settings and scenarios where CDFs must be updated with newly collected data.",
     "https://ieeexplore.ieee.org/document/10890461"
   ));
   </script>
