@@ -104,13 +104,13 @@ Awards
   <li>
     <strong>SGS Research & Conference Travel Award</strong>, Rutgers University, 2024  
     <br>
-    Awarded a $1,000 stipend for scholarly activities in the 2024–2025 cycle by the School of Graduate Studies.
+    Awarded a stipend for scholarly activities in the 2024–2025 cycle by the School of Graduate Studies.
   </li>
 
   <li>
-    <strong>[奖项名称]</strong>, [授予机构], [年份]  
+    <strong>Graduate Scholarship</strong>, University of Rochester, 2017
     <br>
-    [简洁描述或只列名称和时间也可]
+    Awarded a tuition scholarship during the M.S. program in Electrical and Computer Engineering.
   </li>
 </ul>
 
