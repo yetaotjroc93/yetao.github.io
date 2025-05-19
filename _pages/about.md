@@ -20,7 +20,7 @@ My research interests lie in applying differential privacy to visualization, dev
 Publications
 ======
 
-Conference
+<i>Conference</i>
 ------
 <script>
   document.write(generatePaperHTML(
@@ -56,7 +56,7 @@ Conference
   ));
   </script>
 
-Journal
+<i>Journal</i>
 ------
 
 <script>
@@ -110,10 +110,10 @@ Received a tuition scholarship during the M.S. program in Electrical and Compute
 
 <div id="internship"></div>
 
-<i>Internship</i>
+Internship
 ======
 
-LinkedIn Corporation
+<i>LinkedIn Corporation</i>
 ------
 
 <p><strong>Applied Research Intern, May 2024 – August 2024</strong><br>
