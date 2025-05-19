@@ -104,7 +104,7 @@ Awards
   <li>
     <strong>SGS Research & Conference Travel Award</strong>, Rutgers University, 2024  
     <br>
-    Awarded a stipend for scholarly activities in the 2024–2025 cycle by the School of Graduate Studies.
+    Awarded a $1,000 stipend for scholarly activities in the 2024–2025 cycle by the School of Graduate Studies.
   </li>
 
   <li>
@@ -116,7 +116,7 @@ Awards
 
 ---
 
-<div id="experience"></div>
+<div id="internship experience"></div>
 
 Internship Experience
 ======
