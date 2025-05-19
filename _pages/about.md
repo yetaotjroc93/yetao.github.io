@@ -100,21 +100,19 @@ Journal
 Awards
 ======
 
-### On Accuracy of Delay and Extrapolate Method in Online Misalignment Estimation
-**Position:** Research Intern  
-**Location:** Bell Lab, USA  
-**Duration:** June 2022 - August 2022  
-**Advisor:** Carl Nuzman, Shirin Jalali  
-- We rigorously analyze the accuracy and effectiveness of the classic method “delay and extrapolate” for estimating the misalignment error when applied to the least mean squares (LMS) algorithm.
-- Our analysis for mean squared error of filter coefficients made corrections to similar, well-known results in the previous LMS literature. [report](/files/bell_lab.pdf)
+<ul>
+  <li>
+    <strong>SGS Research & Conference Travel Award</strong>, Rutgers University, 2024  
+    <br>
+    Awarded a $1,000 stipend for scholarly activities in the 2024–2025 cycle by the School of Graduate Studies.
+  </li>
 
-### Tessutivo: Contextual Interactions on Interactive Fabrics with Inductive Sensing
-**Position:** Research Intern  
-**Location:** Dartmouth College, USA  
-**Duration:** December 2018 - April 2019  
-**Advisor:** Xing-Dong Yang  
-- Proposed Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.
-- Built a prototype containing coils made of conductive thread with maximized sensitivity conducted by a new inductance approximation formula.
+  <li>
+    <strong>[奖项名称]</strong>, [授予机构], [年份]  
+    <br>
+    [简洁描述或只列名称和时间也可]
+  </li>
+</ul>
 
 ---
 
