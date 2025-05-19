@@ -116,17 +116,13 @@ Internship
 LinkedIn Corporation
 ------
 
-<p><strong>Position:</strong> Applied Research Intern<br>
-<strong>Duration:</strong> May 2024 – August 2024<br>
-<strong>Work Description:</strong> Worked on ads recommendation, optimizing ranking systems with machine learning techniques focused on long-term reward metrics</p>
+<p><strong>Applied Research Intern, May 2024 – August 2024<br>
+Worked on ads recommendation, optimizing ranking systems through reinforcement learning techniques.</p>
 
 ---
 
-<p><strong>Position:</strong> Applied Research Intern<br>
-<strong>Duration:</strong> May 2023 – August 2023</p>
-<p>Enhanced productivity in sales and marketing through large language model applications.</p>
-
-
+<p><strong>Applied Research Intern, May 2024 – August 2024<br>
+Worked on ads recommendation, optimizing ranking systems through reinforcement learning techniques.</p>
 
 ---
 
