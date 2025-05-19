@@ -48,38 +48,13 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "phaseanti.png",
-    'PhaseAnti: An anti-interference WiFi-based activity recognition system using interference-independent phase component. (IEEE Transactions on Mobile Computing 22, no. 5 (2021): 2938-2954)',
-    "Huang, Jinyang, Bin Liu, Chenglin Miao, Yan Lu, Qijia Zheng, Yu Wu, Jiancun Liu, Lu Su, and Chang Wen Chen",
-    "Journal version of PhaseAnti.",
-    "https://ieeexplore.ieee.org/abstract/document/9613773"
+    "l2h.png",
+    "Privacy-Preserving Visualization of Brain Functional Network Connectivity. (ISBI 2024)",
+    "Ye Tao, Anand D. Sarwate, Sandeep Panta, Sergey Plis, and Vince D. Calhoun",
+    "The connectogram is a commonly used visualization of brain functional network connectivity (FNC). In this paper we study the problem of privacy-preserving connectogram visualization using differential privacy. We investigate several approaches based on perturbing correlation values and characterize their privacy cost and the impact of pre- and post-processing. In order to obtain a better privacy/visual utility tradeoff, we propose a new workflow for connectogram visualization with privacy guarantees. This workflow successfully generates connectograms similar to their non-private counterparts for group comparisons. Experiments show that qualitative assessments can be preserved while guaranteeing privacy. These results show that differential privacy is a promising method for protecting sensitive information in data visualization for biomedical data.",
+    "https://ieeexplore.ieee.org/abstract/document/10635222"
   ));
   </script>
-
----
-
-<script>
-  document.write(generatePaperHTML(
-    "antiinfer20.png",
-    'Towards anti-interference WiFi-based activity recognition system using interference-independent phase component. (INFOCOM 2020)',
-    "Huang, Jinyang, Bin Liu, Pengfei Liu, Chao Chen, Ning Xiao, Yu Wu, Chi Zhang, and Nenghai Yu",
-    "We propose PhaseAnti, a novel HAR system to exploit the CCI- independent phase component, NLPEV (Nonlinear Phase Error Variation), of Channel State Information (CSI) to cope with the impact of CCI.",
-    "https://ieeexplore.ieee.org/abstract/document/9155536/?casa_token=n0pgHUKmh8cAAAAA:J_Bw9zpG0893SLSFytpStUVNmtzSD2mEwADF7DAHmlYEN4al_KRwtSjjPPH_uy_oeRmIRdyl7A"
-  ));
-  </script>
-
----
-
-<script>
-  document.write(generatePaperHTML(
-    "UIST.png",
-    'Tessutivo: Contextual interactions on interactive fabrics with inductive sensing. (UIST 2019)',
-    "Gong, Jun, Yu Wu, Lei Yan, Teddy Seyed, and Xing-Dong Yang",
-    "We present Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.",
-    "https://dl.acm.org/doi/abs/10.1145/3332165.3347897"
-  ));
-
-</script>
 
 Pre-print
 ------
