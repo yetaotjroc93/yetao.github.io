@@ -1,5 +1,5 @@
 function generatePaperHTML(photo, title, authors, description, link) {
-  const baseURL = "https://raw.githubusercontent.com/YuWuOfRutgers/YuWuOfRutgers.github.io/refs/heads/master/images/";
+  const baseURL = "https://raw.githubusercontent.com/yetaotjroc93/yetao.github.io/refs/heads/master/images/";
   const fullPhotoURL = baseURL + photo;
     return `
       <div style="display: flex; align-items: flex-start;">
