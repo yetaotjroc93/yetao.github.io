@@ -24,9 +24,8 @@ Accepted
 ------
 <script>
   document.write(generatePaperHTML(
-    "icassp2025.png",
     "Differentially Private Distribution Estimation Using Functional Approximation. (ICASSP 2025)",
-    "Ye Tao, and Anand D. Sarwate",
+    "Ye Tao and Anand D. Sarwate",
     "The cumulative distribution function (CDF) is fundamental due to its ability to reveal information about random variables, making it essential in studies that require privacy-preserving methods to protect sensitive data. This paper introduces a novel privacy-preserving CDF method inspired by the functional analysis and functional mechanism. Our approach projects the empirical CDF into a predefined space, approximating it using specific functions, and protects the coefficients to achieve a differentially private empirical CDF. Compared to existing methods like histogram queries and adaptive quantiles, our method is preferable in decentralized settings and scenarios where CDFs must be updated with newly collected data.",
     "https://ieeexplore.ieee.org/document/10890461"
   ));
@@ -36,7 +35,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "l2h.png",
+    //"l2h.png",
     "Learning To Help: Training Models to Assist Legacy Devices. (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning)",
     "Wu, Yu, and Anand Sarwate",
     "We propose a new machine learning framework Learning to Help which trains external model to assist existing legacy model.",
@@ -48,7 +47,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "phaseanti.png",
+    //"phaseanti.png",
     'PhaseAnti: An anti-interference WiFi-based activity recognition system using interference-independent phase component. (IEEE Transactions on Mobile Computing 22, no. 5 (2021): 2938-2954)',
     "Huang, Jinyang, Bin Liu, Chenglin Miao, Yan Lu, Qijia Zheng, Yu Wu, Jiancun Liu, Lu Su, and Chang Wen Chen",
     "Journal version of PhaseAnti.",
@@ -60,7 +59,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "antiinfer20.png",
+    //"antiinfer20.png",
     'Towards anti-interference WiFi-based activity recognition system using interference-independent phase component. (INFOCOM 2020)',
     "Huang, Jinyang, Bin Liu, Pengfei Liu, Chao Chen, Ning Xiao, Yu Wu, Chi Zhang, and Nenghai Yu",
     "We propose PhaseAnti, a novel HAR system to exploit the CCI- independent phase component, NLPEV (Nonlinear Phase Error Variation), of Channel State Information (CSI) to cope with the impact of CCI.",
@@ -72,7 +71,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "UIST.png",
+    //"UIST.png",
     'Tessutivo: Contextual interactions on interactive fabrics with inductive sensing. (UIST 2019)',
     "Gong, Jun, Yu Wu, Lei Yan, Teddy Seyed, and Xing-Dong Yang",
     "We present Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.",
@@ -86,7 +85,7 @@ Pre-print
 
 <script>
   document.write(generatePaperHTML(
-    "literateLLM.png",
+    //"literateLLM.png",
     'Renaissance of Literate Programming in the Era of LLMs: Enhancing LLM-Based Code Generation in Large-Scale Projects. (arXiv 2024)' ,
     "Zhang, Wuyang, Yansong Li, Zeyu Dong, Yu Wu, Yingyao Zhou, Duolei Wang, Songsirou Xing, Chichun Zhou, and Da Shen.",
     "We investigate how LLMs perform under ILP-style instructions for both document-oriented tasks and entire projects. Recognizing that many researchers rely on well-structured templates to guide LLMs, we propose a concise prompt engineering method to write LP documents so LLMs can better be involved in code generation. We also examine the capacity of various LLMs to generate Scheme and Python code on the RepoBench benchmark, illustrating the advantages of our approach. Our findings indicate that ILP with LLMs can enhance LLM-based code generation in large-scale project development.",
@@ -96,7 +95,7 @@ Pre-print
 ---
 <script>
   document.write(generatePaperHTML(
-    "eapcr.png",
+    //"eapcr.png",
     'EAPCR: A Universal Feature Extractor for Scientific Data without Explicit Feature Relation Patterns. (arXiv 2024)' ,
     "Yu, Zhuohang, Ling An, Yansong Li, Yu Wu, Zeyu Dong, Zhangdi Liu, Le Gao, Zhenyu Zhang, and Chichun Zhou",
     "We propose a method to learn the representation of structured scientific data with no explicit connection among features. The method employs bilinear attention and permuted CNN to understand the implicit structure.",
@@ -108,7 +107,7 @@ Pre-print
 
 <script>
     document.write(generatePaperHTML(
-    "datafilter.png",
+    //"datafilter.png",
     'When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter. (arXiv 2024)' ,
     "Li, Yansong, Zeyu Dong, Ertai Luo, Yu Wu, Shuo Wu, and Shuo Han.",
     "we introduce an out-of-distribution (OOD) data filter that removes simulated data from the estimated model that significantly diverges from data collected in the real environment. ",
