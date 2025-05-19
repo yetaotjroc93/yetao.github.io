@@ -140,24 +140,12 @@ Teaching Experience
 ------
 
 <p><strong>Teaching Assistant</strong><br> 
-Linear Signal and System (Fall 2023, Fall 2024)<br> 
-Discrete Mathematics (Spring 2022)</p>
+Machine Learning (Fall 2023)<br> 
+Linear Systems and Signals (Fall 2020, Fall 2023)</p>
 
-**Role:** Teaching Assistant 
+<i>University of Rochester</i>
+------
 
-**Institution:** Rutgers  
+<p><strong>Teaching Assistant</strong><br> 
+Digital Signal Processing (Fall 2018)</p>
 
-### Linear Signal and System (Fall 2023, Fall 2024) 
-
-### Discrete Mathematics (Spring 2022)  
-
-### Principles of Electrical Engineering (Fall 2021, Fall 2020)
-
-### Probability and Random Processes (Spring 2021)  
-
----
-**Institution:** USTC  
-
-### Mathematical Logic and Graph Theory (Fall 2018)  
-
-GA
