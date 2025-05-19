@@ -37,10 +37,10 @@ Accepted
 <script>
   document.write(generatePaperHTML(
     "l2h.png",
-    "Learning To Help: Training Models to Assist Legacy Devices. (ISIT 2024 Workshop on Information-Theoretic Methods for Trustworthy Machine Learning)",
-    "Wu, Yu, and Anand Sarwate",
-    "We propose a new machine learning framework Learning to Help which trains external model to assist existing legacy model.",
-    "https://arxiv.org/abs/2409.16253"
+    "Federated Privacy-Preserving Visualization: A Vision Paper. (IEEE BigData 2024)",
+    "Ye Tao, Anand D. Sarwate, Sandeep Panta, Sergey Plis, and Vince D. Calhoun",
+    "Federated learning (FL) for distributed data has gained significant attention by enabling model training on local data without transferring it to a central system. While this approach protects sensitive information, risks of data leakage still persist, necessitating the integration of privacy-preserving techniques such as differential privacy. In many FL applications, tasks like exploratory data analysis or tracking and monitoring data that change over time are essential. For these purposes, analysts rely on data visualizations to make decisions or draw conclusions. This vision paper emphasizes the importance of federated privacy-preserving visualization and outlines a general pipeline for its implementation. We discuss the challenges of integrating federated visualizations with differential privacy and demonstrate the feasibility of this approach through examples, such as federated privacy-preserving boxplots, scatterplots, and correlation visualizations in neuroimaging. This highlights the need for further research in this promising field.",
+    "https://ieeexplore.ieee.org/abstract/document/10825849"
   ));
   </script>
 
