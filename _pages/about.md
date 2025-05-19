@@ -56,18 +56,6 @@ Conference
   ));
   </script>
 
----
-
-<script>
-  document.write(generatePaperHTML(
-    "photo_yetao.jpeg",
-    "Processing speed and attention training modifies autonomic flexibility: A mechanistic intervention study. (ISBI 2024)",
-    "Feng V. Lin, Ye Tao, Quanjing Chen, Mia Anthony, Zhengwu Zhang, Duje Tadin, and Kathi L. Heffner",
-    "Adaptation capacity is critical for maintaining cognition, yet it is understudied in groups at risk for dementia. Autonomic nervous system (ANS) is critical for neurovisceral integration and is a key contributor to adaptation capacity. To determine the central nervous system’s top-down regulation of ANS, we conducted a mechanistic randomized controlled trial study, using a 6-week processing speed and attention (PS/A)-targeted intervention. Eighty-four older adults with amnestic mild cognitive impairment (aMCI) were randomized to a 6-week PS/A-targeted intervention or an active control without PS/A. Utilizing repeated measures (i.e., PS/A test different from the intervention, resting and cognitive task-based ECG, and resting fMRI) at baseline, immediately post-intervention (post-test), and 6-month follow-up, we aimed to test whether PS/A causally influences vagal control of ANS via their shared central neural pathways in aMCI. We indexed vagal control of ANS using high-frequency heart rate variability (HF-HRV) extracted from ECG data. Functional brain connectivity patterns were extracted from fMRI using advanced statistical tools. Compared to the control group, the intervention group showed significant improvement in PS/A, HF-HRV, salience network (SN), central executive network (CEN), and frontal parietal network (FPN) connectivity at post-test; the effect on SN, CEN, and FPN remained at 6-month follow-up. Changes in PS/A and SN connectivity significantly predicted change in HF-HRV from baseline to post-test and/or 6-month-follow-up. Age, neurodegeneration, nor sex did not affect these relationships. This work provides novel support for top-down regulation of PS/A and associated SN on vagal control of ANS. Intervening PS/A may be a viable approach for promoting adaptation capacity in groups at risk for dementia.",
-    "https://www.sciencedirect.com/science/article/pii/S1053811920302172"
-  ));
-  </script>
-
 Journal
 ------
 
@@ -92,6 +80,18 @@ Journal
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11507778/"
   ));
 </script>
+
+---
+
+<script>
+  document.write(generatePaperHTML(
+    "photo_yetao.jpeg",
+    "Processing speed and attention training modifies autonomic flexibility: A mechanistic intervention study. (Neuroimage 2020)",
+    "Feng V. Lin, Ye Tao, Quanjing Chen, Mia Anthony, Zhengwu Zhang, Duje Tadin, and Kathi L. Heffner",
+    "Adaptation capacity is critical for maintaining cognition, yet it is understudied in groups at risk for dementia. Autonomic nervous system (ANS) is critical for neurovisceral integration and is a key contributor to adaptation capacity. To determine the central nervous system’s top-down regulation of ANS, we conducted a mechanistic randomized controlled trial study, using a 6-week processing speed and attention (PS/A)-targeted intervention. Eighty-four older adults with amnestic mild cognitive impairment (aMCI) were randomized to a 6-week PS/A-targeted intervention or an active control without PS/A. Utilizing repeated measures (i.e., PS/A test different from the intervention, resting and cognitive task-based ECG, and resting fMRI) at baseline, immediately post-intervention (post-test), and 6-month follow-up, we aimed to test whether PS/A causally influences vagal control of ANS via their shared central neural pathways in aMCI. We indexed vagal control of ANS using high-frequency heart rate variability (HF-HRV) extracted from ECG data. Functional brain connectivity patterns were extracted from fMRI using advanced statistical tools. Compared to the control group, the intervention group showed significant improvement in PS/A, HF-HRV, salience network (SN), central executive network (CEN), and frontal parietal network (FPN) connectivity at post-test; the effect on SN, CEN, and FPN remained at 6-month follow-up. Changes in PS/A and SN connectivity significantly predicted change in HF-HRV from baseline to post-test and/or 6-month-follow-up. Age, neurodegeneration, nor sex did not affect these relationships. This work provides novel support for top-down regulation of PS/A and associated SN on vagal control of ANS. Intervening PS/A may be a viable approach for promoting adaptation capacity in groups at risk for dementia.",
+    "https://www.sciencedirect.com/science/article/pii/S1053811920302172"
+  ));
+  </script>
 
 ---
 
