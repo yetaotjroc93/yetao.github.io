@@ -108,26 +108,22 @@ Received a tuition scholarship during the M.S. program in Electrical and Compute
 
 ---
 
-<div id="internship experience"></div>
+<div id="internship"></div>
 
-Internship Experience
+Internship
 ======
 
-### On Accuracy of Delay and Extrapolate Method in Online Misalignment Estimation
-**Position:** Research Intern  
-**Location:** Bell Lab, USA  
-**Duration:** June 2022 - August 2022  
-**Advisor:** Carl Nuzman, Shirin Jalali  
-- We rigorously analyze the accuracy and effectiveness of the classic method “delay and extrapolate” for estimating the misalignment error when applied to the least mean squares (LMS) algorithm.
-- Our analysis for mean squared error of filter coefficients made corrections to similar, well-known results in the previous LMS literature. [report](/files/bell_lab.pdf)
+<p><strong>LinkedIn Corporation</strong></p>
 
-### Tessutivo: Contextual Interactions on Interactive Fabrics with Inductive Sensing
-**Position:** Research Intern  
-**Location:** Dartmouth College, USA  
-**Duration:** December 2018 - April 2019  
-**Advisor:** Xing-Dong Yang  
-- Proposed Tessutivo, a contact-based inductive sensing technique for contextual interactions on interactive fabrics.
-- Built a prototype containing coils made of conductive thread with maximized sensitivity conducted by a new inductance approximation formula.
+<p><strong>Position:</strong> Applied Research Intern<br>
+<strong>Duration:</strong> May 2024 – August 2024</p>
+<p>Worked on ads recommendation, optimizing ranking systems with machine learning techniques focused on long-term reward metrics.</p>
+
+<p><strong>Position:</strong> Applied Research Intern<br>
+<strong>Duration:</strong> May 2023 – August 2023</p>
+<p>Enhanced productivity in sales and marketing through large language model applications.</p>
+
+
 
 ---
 
