@@ -136,6 +136,13 @@ Built a multi-task learning framework to capture universal patterns across multi
 Teaching Experience
 ======
 
+<i>Rutgers University</i>
+------
+
+<p><strong>Teaching Assistant</strong><br> 
+Linear Signal and System (Fall 2023, Fall 2024)<br> 
+Discrete Mathematics (Spring 2022)</p>
+
 **Role:** Teaching Assistant 
 
 **Institution:** Rutgers  
