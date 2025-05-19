@@ -121,8 +121,13 @@ Worked on ads recommendation, optimizing ranking systems through reinforcement l
 
 ---
 
-<p><strong>Applied Research Intern, May 2024 – August 2024</strong><br>
-Worked on ads recommendation, optimizing ranking systems through reinforcement learning techniques.</p>
+<p><strong>Applied Research Intern, May 20243 – August 2023</strong><br>
+Designed an end-to-end GAI system using large language models to enhance productivity in sales and marketing.</p>
+
+---
+
+<p><strong>Applied Research Data Science Intern, May 20242 – August 2022</strong><br>
+Built a multi-task learning framework to capture universal patterns across multiple datasets for diverse prediction tasks in the Go-To-Market domain.</p>
 
 ---
 
