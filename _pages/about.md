@@ -20,11 +20,11 @@ My research interests lie in applying differential privacy to visualization, dev
 Publications
 ======
 
-Accepted
+Conference
 ------
 <script>
   document.write(generatePaperHTML(
-    "l2h.png",
+    "photo_yetao.jpeg",
     "Differentially Private Distribution Estimation Using Functional Approximation. (ICASSP 2025)",
     "Ye Tao and Anand D. Sarwate",
     "The cumulative distribution function (CDF) is fundamental due to its ability to reveal information about random variables, making it essential in studies that require privacy-preserving methods to protect sensitive data. This paper introduces a novel privacy-preserving CDF method inspired by the functional analysis and functional mechanism. Our approach projects the empirical CDF into a predefined space, approximating it using specific functions, and protects the coefficients to achieve a differentially private empirical CDF. Compared to existing methods like histogram queries and adaptive quantiles, our method is preferable in decentralized settings and scenarios where CDFs must be updated with newly collected data.",
@@ -36,7 +36,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "l2h.png",
+    "photo_yetao.jpeg",
     "Federated Privacy-Preserving Visualization: A Vision Paper. (IEEE BigData 2024)",
     "Ye Tao, Anand D. Sarwate, Sandeep Panta, Sergey Plis, and Vince D. Calhoun",
     "Federated learning (FL) for distributed data has gained significant attention by enabling model training on local data without transferring it to a central system. While this approach protects sensitive information, risks of data leakage still persist, necessitating the integration of privacy-preserving techniques such as differential privacy. In many FL applications, tasks like exploratory data analysis or tracking and monitoring data that change over time are essential. For these purposes, analysts rely on data visualizations to make decisions or draw conclusions. This vision paper emphasizes the importance of federated privacy-preserving visualization and outlines a general pipeline for its implementation. We discuss the challenges of integrating federated visualizations with differential privacy and demonstrate the feasibility of this approach through examples, such as federated privacy-preserving boxplots, scatterplots, and correlation visualizations in neuroimaging. This highlights the need for further research in this promising field.",
@@ -48,7 +48,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "l2h.png",
+    "photo_yetao.jpeg",
     "Privacy-Preserving Visualization of Brain Functional Network Connectivity. (ISBI 2024)",
     "Ye Tao, Anand D. Sarwate, Sandeep Panta, Sergey Plis, and Vince D. Calhoun",
     "The connectogram is a commonly used visualization of brain functional network connectivity (FNC). In this paper we study the problem of privacy-preserving connectogram visualization using differential privacy. We investigate several approaches based on perturbing correlation values and characterize their privacy cost and the impact of pre- and post-processing. In order to obtain a better privacy/visual utility tradeoff, we propose a new workflow for connectogram visualization with privacy guarantees. This workflow successfully generates connectograms similar to their non-private counterparts for group comparisons. Experiments show that qualitative assessments can be preserved while guaranteeing privacy. These results show that differential privacy is a promising method for protecting sensitive information in data visualization for biomedical data.",
@@ -60,7 +60,7 @@ Accepted
 
 <script>
   document.write(generatePaperHTML(
-    "l2h.png",
+    "photo_yetao.jpeg",
     "Processing speed and attention training modifies autonomic flexibility: A mechanistic intervention study. (ISBI 2024)",
     "Feng V. Lin, Ye Tao, Quanjing Chen, Mia Anthony, Zhengwu Zhang, Duje Tadin, and Kathi L. Heffner",
     "Adaptation capacity is critical for maintaining cognition, yet it is understudied in groups at risk for dementia. Autonomic nervous system (ANS) is critical for neurovisceral integration and is a key contributor to adaptation capacity. To determine the central nervous system’s top-down regulation of ANS, we conducted a mechanistic randomized controlled trial study, using a 6-week processing speed and attention (PS/A)-targeted intervention. Eighty-four older adults with amnestic mild cognitive impairment (aMCI) were randomized to a 6-week PS/A-targeted intervention or an active control without PS/A. Utilizing repeated measures (i.e., PS/A test different from the intervention, resting and cognitive task-based ECG, and resting fMRI) at baseline, immediately post-intervention (post-test), and 6-month follow-up, we aimed to test whether PS/A causally influences vagal control of ANS via their shared central neural pathways in aMCI. We indexed vagal control of ANS using high-frequency heart rate variability (HF-HRV) extracted from ECG data. Functional brain connectivity patterns were extracted from fMRI using advanced statistical tools. Compared to the control group, the intervention group showed significant improvement in PS/A, HF-HRV, salience network (SN), central executive network (CEN), and frontal parietal network (FPN) connectivity at post-test; the effect on SN, CEN, and FPN remained at 6-month follow-up. Changes in PS/A and SN connectivity significantly predicted change in HF-HRV from baseline to post-test and/or 6-month-follow-up. Age, neurodegeneration, nor sex did not affect these relationships. This work provides novel support for top-down regulation of PS/A and associated SN on vagal control of ANS. Intervening PS/A may be a viable approach for promoting adaptation capacity in groups at risk for dementia.",
@@ -68,16 +68,16 @@ Accepted
   ));
   </script>
 
-Pre-print
+Journal
 ------
 
 <script>
   document.write(generatePaperHTML(
-    "literateLLM.png",
-    'Renaissance of Literate Programming in the Era of LLMs: Enhancing LLM-Based Code Generation in Large-Scale Projects. (arXiv 2024)' ,
-    "Zhang, Wuyang, Yansong Li, Zeyu Dong, Yu Wu, Yingyao Zhou, Duolei Wang, Songsirou Xing, Chichun Zhou, and Da Shen.",
-    "We investigate how LLMs perform under ILP-style instructions for both document-oriented tasks and entire projects. Recognizing that many researchers rely on well-structured templates to guide LLMs, we propose a concise prompt engineering method to write LP documents so LLMs can better be involved in code generation. We also examine the capacity of various LLMs to generate Scheme and Python code on the RepoBench benchmark, illustrating the advantages of our approach. Our findings indicate that ILP with LLMs can enhance LLM-based code generation in large-scale project development.",
-    "https://arxiv.org/abs/2502.17441"
+    "photo_yetao.jpeg",
+    "Differentially Private Distribution Estimation Using Functional Approximation. (arXiv)",
+    "Ye Tao and Anand D. Sarwate",
+    "The cumulative distribution function (CDF) is fundamental due to its ability to reveal information about random variables, making it essential in studies that require privacy-preserving methods to protect sensitive data. This paper introduces a novel privacy-preserving CDF method inspired by the functional analysis and functional mechanism. Our approach projects the empirical CDF into a predefined space, approximating it using specific functions, and protects the coefficients to achieve a differentially private empirical CDF. Compared to existing methods like histogram queries and adaptive quantiles, our method is preferable in decentralized settings and scenarios where CDFs must be updated with newly collected data.",
+    "https://arxiv.org/abs/2501.06620"
   ));
 </script>
 
@@ -85,23 +85,11 @@ Pre-print
 
 <script>
   document.write(generatePaperHTML(
-    "eapcr.png",
-    'EAPCR: A Universal Feature Extractor for Scientific Data without Explicit Feature Relation Patterns. (arXiv 2024)' ,
-    "Yu, Zhuohang, Ling An, Yansong Li, Yu Wu, Zeyu Dong, Zhangdi Liu, Le Gao, Zhenyu Zhang, and Chichun Zhou",
-    "We propose a method to learn the representation of structured scientific data with no explicit connection among features. The method employs bilinear attention and permuted CNN to understand the implicit structure.",
-    "https://arxiv.org/abs/2411.08164"
-  ));
-</script>
-
----
-
-<script>
-    document.write(generatePaperHTML(
-    "datafilter.png",
-    'When to Trust Your Data: Enhancing Dyna-Style Model-Based Reinforcement Learning With Data Filter. (arXiv 2024)' ,
-    "Li, Yansong, Zeyu Dong, Ertai Luo, Yu Wu, Shuo Wu, and Shuo Han.",
-    "we introduce an out-of-distribution (OOD) data filter that removes simulated data from the estimated model that significantly diverges from data collected in the real environment. ",
-    "https://arxiv.org/abs/2410.12160"
+    "photo_yetao.jpeg",
+    "Privacy-Preserving Visualization of Brain Functional Connectivity. (bioRxiv)",
+    "Ye Tao, Anand D. Sarwate, Sandeep Panta, Sergey Plis, and Vince D. Calhoun",
+    "Privacy protection is important in visualization due to the risk of leaking personal sensitive information. In this paper, we study the problem of privacy-preserving visualizations using differential privacy, employing biomedical data from neuroimaging as a use case. We investigate several approaches based on perturbing correlation values and characterize their privacy cost and the impact of pre- and post-processing. To obtain a better privacy/visual utility tradeoff, we propose workflows for connectogram and seed-based connectivity visualizations, respectively. These workflows successfully generate visualizations similar to their non-private counterparts. Experiments show that qualitative assessments can be preserved while guaranteeing privacy. These results show that differential privacy is a promising method for protecting sensitive information in data visualization.",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11507778/"
   ));
 </script>
 
