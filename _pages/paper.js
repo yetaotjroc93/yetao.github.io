@@ -1,6 +1,4 @@
 function generatePaperHTML(photo, title, authors, description, link) {
-  const baseURL = "https://raw.githubusercontent.com/yetaotjroc93/yetaotjroc93.github.io/refs/heads/master/images/";
-  const fullPhotoURL = baseURL + photo;
     return `
       <div>
         <p><strong><a href="${link}">${title}</a></strong></p>
