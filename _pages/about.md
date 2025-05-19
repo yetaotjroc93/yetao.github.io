@@ -100,19 +100,11 @@ Journal
 Awards
 ======
 
-<ul>
-  <li>
-    <strong>SGS Research & Conference Travel Award</strong>, Rutgers University, 2024  
-    <br>
-    Awarded a $1,000 stipend for scholarly activities in the 2024–2025 cycle by the School of Graduate Studies.
-  </li>
+<p><strong>SGS Research & Conference Travel Award, Rutgers University, 2024.</strong><br>
+Awarded a $1,000 stipend to support scholarly activities in the 2024–2025 academic cycle by the School of Graduate Studies.</p>
 
-  <li>
-    <strong>Graduate Scholarship</strong>, University of Rochester, 2017
-    <br>
-    Awarded a tuition scholarship during the M.S. program in Electrical and Computer Engineering.
-  </li>
-</ul>
+<p><strong>Graduate Scholarship, University of Rochester, 2017.</strong><br>
+Received a tuition scholarship during the M.S. program in Electrical and Computer Engineering.</p>
 
 ---
 
