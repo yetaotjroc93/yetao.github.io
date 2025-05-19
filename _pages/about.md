@@ -110,7 +110,7 @@ Received a tuition scholarship during the M.S. program in Electrical and Compute
 
 <div id="internship"></div>
 
-Internship
+<i>Internship</i>
 ======
 
 LinkedIn Corporation
